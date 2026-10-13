@@ -39,6 +39,8 @@ The pack also adds matching borders to:
 - **Ancient Debris**
 - **Gilded Blackstone**
 
+![Nether Resources](assets/nether-resources.svg)
+
 Ancient Debris has also received a refreshed texture with lighter border highlights, making it easier to notice while keeping the same vanilla-friendly style.
 
 ![New Ancient Debris Texture](https://cdn.modrinth.com/data/cached_images/8037efd876c52c22a2864d3807c5dbae2116afd5.png)
