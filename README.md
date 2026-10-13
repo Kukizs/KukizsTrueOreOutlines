@@ -1,56 +1,89 @@
-# Kukiz's True Ore Outlines
+# True Ore Borders
 
-🎨 **Kukiz's True Ore Outlines** adds clean, natural-colored outlines to all ores in Minecraft, making them easier to spot while keeping a true vanilla style. Perfect for players who want better visibility without breaking immersion.  
+**True Ore Borders** is a simple, vanilla-friendly Minecraft resource pack that makes ores easier to spot by adding subtle, naturally coloured borders that match each ore.
 
-<p float="left">
-<img src="https://github.com/user-attachments/assets/810117e9-6628-4648-8845-847733988af9" width="45%" />
-<img src="https://github.com/user-attachments/assets/8baf88bf-fbfc-4d12-ad2c-8fbfab350664" width="45%" />
-</p>
+The goal is to improve visibility while mining **without changing Minecraft's overall look and feel**. Ores stand out more clearly against stone, deepslate and netherrack while still looking like they belong in the base game.
 
----
+> Two years later, the pack is being updated again for modern Minecraft versions.
 
-## 📥 Download
-
-👉 Grab the latest version here:
-[Releases](https://github.com/R6Gamer07/True-Ore-Outlines/releases)  
-Download From Modrinth [Modrinth Download](https://modrinth.com/resourcepack/true-ore-borders-by-kukiz)
+![True Ore Borders](https://cdn.modrinth.com/data/cached_images/e1798f3cff399d67bcdae18eb56963a9f839f996.png)
 
 ---
 
-## 📦 Features
+## What it changes
 
-- ✅ Outlines for **all overworld, nether, and end ores**  
-- ✅ Natural coloring to match each ore's texture  
-- ✅ Faithful to vanilla Minecraft aesthetics  
-- ✅ Works with **Minecraft [1.16 - 1.21 ONWARDS]**  
+### Overworld Ores
+
+True Ore Borders adds colour-matched borders to:
+
+- **Coal Ore**
+- **Iron Ore**
+- **Copper Ore**
+- **Gold Ore**
+- **Redstone Ore**
+- **Emerald Ore**
+- **Lapis Lazuli Ore**
+- **Diamond Ore**
+- Their **Deepslate variants**
+
+![Overworld Ore Borders](https://cdn.modrinth.com/data/cached_images/24f9ee787e67602128d3dd279084c30f748be5e0.png)
 
 ---
 
-## 🛠 Installation
-1. Download the `.zip` file from the [Releases](https://github.com/R6Gamer07/True-Ore-Outlines/releases) tab.  
-2. Place the `.zip` file in your game’s `resourcepacks` folder:  
-   - **Windows:** `%appdata%\.minecraft\resourcepacks`  
-   - **Mac:** `~/Library/Application Support/minecraft/resourcepacks`  
+### Nether Resources
+
+The pack also adds matching borders to:
+
+- **Nether Quartz Ore**
+- **Nether Gold Ore**
+- **Ancient Debris**
+- **Gilded Blackstone**
+
+Ancient Debris has also received a refreshed texture with lighter border highlights, making it easier to notice while keeping the same vanilla-friendly style.
+
+![New Ancient Debris Texture](https://cdn.modrinth.com/data/cached_images/8037efd876c52c22a2864d3807c5dbae2116afd5.png)
+
+---
+
+## Why use True Ore Borders?
+
+- Makes ores easier to notice while mining
+- Uses colours based on each ore instead of generic outlines
+- Keeps a clean, minimal **vanilla-style** appearance
+- Includes both standard and Deepslate ore variants
+- Supports modern Minecraft versions, including **Minecraft 26.3**
+
+---
+
+## Download
+
+Download the latest version from either:
+
+- [Modrinth](https://modrinth.com/resourcepack/true-ore-borders-by-kukiz)
+- [GitHub Releases](https://github.com/Kukizs/KukizsTrueOreOutlines/releases)
+
+---
+
+## Installation
+
+1. Download the `.zip` file.
+2. Place it in your Minecraft `resourcepacks` folder.
+   - **Windows:** `%appdata%\.minecraft\resourcepacks`
+   - **macOS:** `~/Library/Application Support/minecraft/resourcepacks`
    - **Linux:** `~/.minecraft/resourcepacks`
-3. Open Minecraft and select **Kukiz's True Ore Outlines** in:  
-   `Options → Resource Packs`  
+3. Open Minecraft and go to **Options → Resource Packs**.
+4. Enable **True Ore Borders**.
 
 ---
 
-## 🐞 Reporting Bugs
+## Reporting Issues
 
-Found a problem or missing texture?  
-📄 Open an [issue](https://github.com/R6Gamer07/True-Ore-Outlines/issues) and include:  
-- Your **Minecraft version**  
-- Screenshots of the issue  
-- Steps to reproduce  
+Found a missing texture or something that does not look right? [Open an issue](https://github.com/Kukizs/KukizsTrueOreOutlines/issues) and include your Minecraft version, a screenshot if possible, and a short description of the problem.
 
 ---
 
-## 📜 License
+## License
 
-This texture pack is licensed under the [MIT License](LICENSE).    
+This resource pack is licensed under the [MIT License](LICENSE).
 
----
-
-💎 *Created by Kukiz*  
+*Created by Kukiz*
