@@ -4,7 +4,7 @@
 
 The goal is to improve visibility while mining **without changing Minecraft's overall look and feel**. Ores stand out more clearly against stone, deepslate and netherrack while still looking like they belong in the base game.
 
-> Two years later, the pack is being updated again for modern Minecraft versions.
+> A year later, the pack is being updated again for modern Minecraft versions.
 
 ![True Ore Borders](https://cdn.modrinth.com/data/cached_images/e1798f3cff399d67bcdae18eb56963a9f839f996.png)
 
